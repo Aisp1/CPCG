@@ -1,6 +1,6 @@
  
 
-# SMAP: Self-enhanced Multi-Agent Code Generation for Competitive Problem Solving
+# Consensus Planning Boosts LLM Code Generation
 
 
 ## Quick Start
